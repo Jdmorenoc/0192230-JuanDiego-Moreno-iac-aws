@@ -15,12 +15,12 @@ personalizada. La infraestructura está definida en `templates/template.yaml`
 
 ## Estudiante
 
-- Nombre: TU NOMBRE COMPLETO
-- Código: TU_CODIGO
+- Nombre: Juan Diego Moreno
+- Código: 0192230
 - Docente: Wilder Andrés Duarte Neira
 
 ## Sitio web desplegado
 
-http://IP_PUBLICA
+http://32.200.99.48/
 
 (La IP cambia si la instancia se vuelve a crear.)
